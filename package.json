@@ -1,9 +1,9 @@
 {
   "name": "money-box",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "money box matrix",
   "main": "index.html",
-  "scripts": { },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Silksofthesoul/e6.git"
