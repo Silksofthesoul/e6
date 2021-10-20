@@ -1,6 +1,6 @@
 (_ => {
   console.clear();
-  document.body.innerHTML = '';
+  // document.body.innerHTML = '';
   // document.head.innerHTML = '';
 
   const random = _ => Math.random();
@@ -24,6 +24,7 @@
 
   const createEl = type => document.createElement(type);
   const addEl = (parent, child) => parent.appendChild(child);
+  const addElAlt = (position, parent, child) => parent.insertAdjacentElement(position, child);
   const addTx = (el, text) => el.innerText = text;
   const clsAdd = (el, cls) => el.classList.add(cls);
 
@@ -199,7 +200,7 @@
     clsAdd(settings.elExtraWrapper, 'elExtraWrapper');
     addEl(settings.elTableWrapper, settings.elTable);
     addEl(settings.elTableWrapper, settings.elExtraWrapper);
-    addEl(document.body, settings.elTableWrapper);
+    addElAlt('afterbegin', document.body, settings.elTableWrapper);
 
   };
 
@@ -373,13 +374,12 @@
     settings.elButton = elButton;
   };
   const createGithub = _ => {
-
     const elLink = createEl('a');
     elLink.classList.add('github');
     elLink.setAttribute('href', 'https://github.com/Silksofthesoul/e6')
     elLink.setAttribute('target', '_blank');
     addTx(elLink, 'GitHub');
-    addEl(document.body, elLink);
+    addElAlt('afterend', settings.elTableWrapper, elLink);
   };
 
   const loop = _ => {
