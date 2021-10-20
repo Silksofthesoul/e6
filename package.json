@@ -1,0 +1,22 @@
+{
+  "name": "money-box",
+  "version": "1.0.0",
+  "description": "money box matrix",
+  "main": "index.html",
+  "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silksofthesoul/e6.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "numbers",
+    "experiments"
+  ],
+  "author": "Labuzov Evgeny <silksofthesoul@yandex.ru>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Silksofthesoul/e6/issues"
+  },
+  "homepage": "https://github.com/Silksofthesoul/e6#readme"
+}
