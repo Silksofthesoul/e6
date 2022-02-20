@@ -109,11 +109,9 @@
       else this.gen = fn;
     }
     setShuffleOn() {
-      console.log('shuffle on');
       this.isShuffle = true;
     }
     setShuffleOff() {
-      console.log('shuffle off');
       this.isShuffle = false;
     }
     createStyle() {
@@ -197,11 +195,8 @@
     }
 
     shuffle() {
-      console.log('shuffle');
       let { width, height, matrix } = this;
       let arr = co(matrix);
-      // matrix = sortRndAlt(matrix);
-      // matrix = matrix.map(a => sortRndAlt(a));
       for (let h = 0; h < height; h++) {
         for (let w = 0; w < width; w++) {
           let rndH = rndMinMaxInt(0, height - 1);
@@ -805,8 +800,8 @@
       const {width, height} = Scene;
       this.matrix = new Matrix({width, height});
       this.ui = new UI({ matrix: this.matrix });
-      this.matrix.log();
-      this.ui.log();
+      // this.matrix.log();
+      // this.ui.log();
       this.github = new Github();
     }
 
@@ -815,7 +810,6 @@
     }
 
     static init() {
-      console.log('Scene init');
       this.instance = new this();
       this.initStyles();
     }

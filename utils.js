@@ -162,13 +162,13 @@
 
     static addElement(el) {
       if(!el) return false;
-      console.log(`%c${el.name}`, 'background: repeating-radial-gradient(rgba(255,255,255,0.1), rgba(0,0,0,0.1) 1rem); padding: 1rem; color: white; border-left: 5px solid white;');
+      // console.log(`%c${el.name}`, 'background: repeating-radial-gradient(rgba(255,255,255,0.1), rgba(0,0,0,0.1) 1rem); padding: 1rem; color: white; border-left: 5px solid white;');
       this.elements.push(el);
       return this;
     }
   };
 
-  
+
 
 
   window.utils = {
