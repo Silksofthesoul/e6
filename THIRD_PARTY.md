@@ -1,0 +1,44 @@
+# Сторонние файлы
+
+Закреплённые зависимости для самостоятельного запуска. Они не загружаются из сети при открытии работы. Файлы библиотек не менялись; лицензии лежат рядом.
+
+- `vendor/roboto/000fec62282349e8.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2
+  SHA-256: `481dd0c01e6bbb129fd147eb5d8571016193cba141c4627ca60ceabdb5a46ea8`
+- `vendor/roboto/0437a9930e5e5b2a.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCXkaWzU.woff2
+  SHA-256: `3e6b22d2171656f2f886c209e04c70555a6bdb4903c011811726830492cd6ba9`
+- `vendor/roboto/45ca9602a5c24138.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkenkaWzU.woff2
+  SHA-256: `1c6486a3a539bc8cfb0d9586787438282dfbe21b745fee24b12b376991286215`
+- `vendor/roboto/4e54fc361061b452.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2
+  SHA-256: `cedb374b05a35034cf96db185db4eeb8f8ce49e1a56197673702ff11b5533d6e`
+- `vendor/roboto/63a1866c47027dc2.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCHkaWzU.woff2
+  SHA-256: `7f21d061a9de1ea78a858938ff3b8e677869656b10bad470fc6039f8f3daf329`
+- `vendor/roboto/78e4260aaa9498dc.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2
+  SHA-256: `01f94d674db55952c35898fa4da22c3e7065c3cc4dbbcc9cb7beb8b6b017fbc9`
+- `vendor/roboto/890de452eac592c6.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2
+  SHA-256: `1404ca348bd75ef836f4dd8b6f2cc719458642d1237c368296b2fc652dca47dc`
+- `vendor/roboto/b1014ee1bc15a515.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2
+  SHA-256: `ec7769b089813996276482bbe7017adfffdd6c7543fd1f76244e2ffc1138ed86`
+- `vendor/roboto/b30e90ae6d753877.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkaHkaWzU.woff2
+  SHA-256: `3c9dec1a3e93c3effb3ec8805a71890dc81d0a0c3e64fd95f4d138d8e300aeff`
+- `vendor/roboto/c533d38667ad6ca0.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCnkaWzU.woff2
+  SHA-256: `75697119399fa9c3be54924e02b42ba6dc2a430b2984479cb5d8f291f09a44f3`
+- `vendor/roboto/c97752dd1e648254.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnka.woff2
+  SHA-256: `14f23757c6b41b4b6c0b967ca3fa74ff47a868728158373461c4e6e4b6368f19`
+- `vendor/roboto/ce075ab86dc1c623.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2
+  SHA-256: `0b60bbe04e9c479444b31270a72179f53e400beee57b7dd176c08e5e2e716831`
+- `vendor/roboto/cf69d4bd86681ac6.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2
+  SHA-256: `7cb4281a0ccc84cc18617842c639fc66541cbef94a9dd245c754700210b4fcec`
+- `vendor/roboto/cfdf6f20d497ac43.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2
+  SHA-256: `97fbf7bd0b4579e632392a4f483acdae73cbf59ad90c1e5d2c5ec4044c377fce`
+- `vendor/roboto/dc677a748c1249c7.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBXkaWzU.woff2
+  SHA-256: `abf79b1a281be8135c1bde7bf807267b1507adbdbe3023d5f5a8781ab6655371`
+- `vendor/roboto/dfd8b7aab6b3acd6.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaWzU.woff2
+  SHA-256: `d8d0c88eea1036dc3e7322cd0a1a3eb6fc1dd86da24c7de690e70aac1bd62f05`
+- `vendor/roboto/f24f53f8e279cd03.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2
+  SHA-256: `2addf2d86d7a5778653b36d551e97a39da52855f82fac7461cfc1bd86d460aed`
+- `vendor/roboto/f8cea1c91bebd151.woff2` — https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkAnkaWzU.woff2
+  SHA-256: `f2ab3c15c750e03fb1bc8887786a9ef826d134c461f830877366399295861e55`
+- `vendor/roboto/roboto.css` — https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+  SHA-256: `6dbf233f7d3680cad5b3e37627ddd84bcf63d6bf7b76abdcafe62963f6dcf40c`
+- `vendor/roboto/OFL.txt` — https://github.com/google/fonts/blob/main/ofl/roboto/OFL.txt
+  SHA-256: `061402327a96aadb0bfb694a960ed289ecd38d383e396243831ab81feb109c41`
